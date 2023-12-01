@@ -5,7 +5,7 @@ import { LoginPageComponent } from './pages/login-page/login-page.component';
 import { RegisterPageComponent } from './pages/register-page/register-page.component';
 
 const routes: Routes = [
-
+// cambio
   {
     path: '',
     component: AuthLayoutComponent,
