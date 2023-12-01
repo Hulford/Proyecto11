@@ -4,7 +4,7 @@ import { environment } from 'src/environments/environments';
 import { Observable, catchError, map, of, tap, throwError } from 'rxjs';
 
 import { AuthStatus, CheckTokenResponse, LoginResponse, User } from '../interfaces';
-// cambio
+
 @Injectable({
   providedIn: 'root'
 })
