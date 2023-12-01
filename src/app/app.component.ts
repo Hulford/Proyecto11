@@ -3,13 +3,13 @@ import { Router } from '@angular/router';
 
 import { AuthService } from './auth/services/auth.service';
 import { AuthStatus } from './auth/interfaces';
-
+// cambio
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-// cambio
+
 export class AppComponent {
 
   private authService = inject( AuthService );
