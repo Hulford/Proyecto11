@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
   declarations: [
     AppComponent
   ],
-  //Cambio
+
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -19,3 +19,4 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+// cambio
