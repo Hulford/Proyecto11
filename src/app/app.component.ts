@@ -3,7 +3,7 @@ import { Router } from '@angular/router';
 
 import { AuthService } from './auth/services/auth.service';
 import { AuthStatus } from './auth/interfaces';
-// cambio
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
